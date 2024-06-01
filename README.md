@@ -32,7 +32,7 @@
   I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope: I'm currently working on Flutter.
 
-- :seedling: I'm currently learning and exploring mmore about AI and ML.
+- :seedling: I'm currently learning and exploring more about AI and ML.
 - :speech_balloon: Ask me about Flutter or any tech-related stuff.
 
 - :zap: In my free time, I love to make the time free.
