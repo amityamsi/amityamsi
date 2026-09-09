@@ -1,56 +1,125 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="100"/>
-  
-  <div id="badges">
-  <a href="https://stackoverflow.com/users/14562817/amit-bahadur">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
-  </a>
-  <a href="https://www.youtube.com/amityamsi">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://mobile.twitter.com/amit_bahadur1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=your-github-amityamsi&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[GitHub_Profile_README.md](https://github.com/user-attachments/files/32027970/GitHub_Profile_README.md)
+<div align="center">
+
+# Hi, I'm Amit Bahadur 👋
+
+### Senior Flutter Developer · Indie App Creator · AI & SaaS Builder
+
+I build scalable Android and iOS applications with clean architecture, reliable state management, testing, payments, maps, Firebase, and production-ready release workflows.
+
+[![Website](https://img.shields.io/badge/Website-codemicros.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codemicros.com)
+[![Email](https://img.shields.io/badge/Email-codemicros%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codemicros@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Amit_Bahadur-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14562817/amit-bahadur)
+[![YouTube](https://img.shields.io/badge/YouTube-amityamsi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/amityamsi)
+[![X](https://img.shields.io/badge/X-amit__bahadur1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amit_bahadur1)
+
+![Profile views](https://komarev.com/ghpvc/?username=amityamsi&style=flat-square&color=02569B)
+
 </div>
 
+## About me
+
+- 💙 Senior Flutter Developer with 4+ years of experience
+- 🚀 Published 15+ production apps across Android and iOS
+- 👥 Experienced in leading a team of four developers
+- 🧪 Build maintainable apps with clean architecture, TDD, and 85%+ test coverage
+- 🧠 Exploring AI-powered products, SaaS platforms, and mobile automation
+- 📍 Based in India
+- 💬 Ask me about Flutter, mobile architecture, Firebase, payments, or app publishing
+
+## Published apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📍 AroundMe: Nearby Places
+
+Discover useful places nearby across 140+ categories. View ratings, reviews, opening hours and distance; save favourites, call businesses, share places and open turn-by-turn directions.
+
+**Built with:** Flutter, Google Places, Google Maps and Firebase Analytics
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.codemicros.around_me)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/aroundme-nearby-places/id6802777396)
+[![Website](https://img.shields.io/badge/Website-Visit-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://aroundme.codemicros.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Civil: All-in-One Calculator
+
+An offline engineering toolkit for civil engineers, site professionals, contractors, surveyors and students. It includes calculators for structures, concrete, rebar, roads, plumbing, electrical work and finishing.
+
+**Built with:** Flutter, local storage, PDF/CSV export and AdMob
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.codemicros.civil)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/civil-all-in-one-calculator/id6804799975)
+
+</td>
+</tr>
+</table>
+
+## Web projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔔 FCM Notification Tester
+
+A browser-based tool for sending and testing Firebase Cloud Messaging notifications through the HTTP v1 API. It supports service-account JSON, device tokens, notification content and custom data.
+
+[![Live Website](https://img.shields.io/badge/Live_Website-Open-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://fcmnotifier.codemicros.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Codemicros
+
+My product and development brand focused on useful mobile applications, AI-powered products, SaaS solutions and business automation.
+
+[![Live Website](https://img.shields.io/badge/Live_Website-Open-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://codemicros.com)
+
+</td>
+</tr>
+</table>
+
+## Currently building
+
+- 🧮 **Calqen – Scientific Calculator:** Advanced scientific calculations, fractions, graphing, equation solving, history and keyboard support
+- 💰 **Money & Expense Tracker:** Account-based ledgers, running balances, transaction history, reports and data export
+- 🤖 **AI & SaaS experiments:** Practical products focused on automation, productivity and business growth
+
+## Core stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Flutter:** Bloc, Riverpod, GetX, Provider, go_router, unit testing, CI/CD  
+**Mobile services:** Firebase, REST, GraphQL, WebSocket, SSE, Google Maps, Agora, NFC  
+**Payments:** Stripe, Razorpay, Cashfree, Google Pay, Apple Pay, in-app purchases and subscriptions
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amityamsi&show_icons=true&hide_border=true&theme=transparent" alt="Amit's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amityamsi&layout=compact&hide_border=true&theme=transparent" alt="Amit's most-used languages" />
+
 </div>
-  
-  
----
 
-### :woman_technologist: About Me :
+## Let's build something useful
 
-  I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - :telescope: I'm currently working on Flutter.
+I enjoy turning practical ideas into polished mobile products. If you are working on a Flutter, Android, iOS, AI-powered, or SaaS product, feel free to connect.
 
-- :seedling: I'm currently learning and exploring more about AI and ML.
-- :speech_balloon: Ask me about Flutter or any tech-related stuff.
-
-- :zap: In my free time, I love to make the time free.
-
-- :mailbox:How to reach me: [![Twitter]("https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white")](https://twitter.com/amit_yamsi)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=amityamsi&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amityamsi&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amityamsi&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
+📧 **codemicros@gmail.com** · 🌐 **[codemicros.com](https://codemicros.com)**
