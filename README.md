@@ -69,23 +69,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amityamsi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Amit's GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=amityamsi&theme=github-dark-blue&hide_border=true" alt="Amit's contribution streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amityamsi&theme=github_dark" alt="Amit's GitHub profile details" />
 
 <br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amityamsi&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Amit's most-used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amityamsi&theme=github_dark" alt="Amit's GitHub statistics" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amityamsi&theme=github_dark&utcOffset=5.5" alt="Amit's productive hours" />
 
-</div>
+<br />
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amityamsi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Amit's GitHub trophies" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amityamsi&theme=github_dark" alt="Repositories by language" />
+<img width="49%" src="https://streak-stats.demolab.com?user=amityamsi&theme=github-dark-blue&hide_border=true" alt="Amit's contribution streak" />
 
 </div>
 
@@ -95,11 +89,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amityamsi&theme=github-compact&hide_border=true&area=true" width="100%" alt="Amit's contribution activity graph" />
-
-<br />
-
-<!-- The snake appears after its GitHub Action generates the output branch. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amityamsi/amityamsi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amityamsi/amityamsi/output/github-contribution-grid-snake.svg" />
