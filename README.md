@@ -4,8 +4,7 @@
 
 # Hi, I'm Amit Bahadur
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=2496ED&center=true&vCenter=true&width=700&lines=Software + Developer;Open-Source+Enthusiast;AI+%26+SaaS+Builder;Building+useful+products+with+clean+code" alt="Animated typing introduction" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=2496ED&center=true&vCenter=true&width=700&lines=Software+Developer;Open-Source+Enthusiast;AI+%26+SaaS+Builder;Building+useful+products+with+clean+code&v=2" alt="Animated typing introduction" />
 <p>
   <a href="https://codemicros.com"><img src="https://img.shields.io/badge/Website-codemicros.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:codemicros@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
